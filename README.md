@@ -33,9 +33,10 @@ I'm a passionate .Net Developer and Network Engineer with a strong focus on tech
 - 🛡️ Demonstrated expertise in network security and datacom.
   
 ## Conferences and Invitations
-- **Google IO Connect Amsterdam 2023** [See the invitation 🎉](https://drive.google.com/file/d/12n5AyWMoNhvWBx8zVOfYmMS-x-MCVRay)
+- **Google IO Connect Berlin 2025** [See the invitation 🎉](link_to_invitation)
 - **Google IO Connect Berlin 2024** [See the invitation 🎉](https://drive.google.com/file/d/12daestFIGwkX0TECBGigbexqw9gJ4GJE)
 - **Google IO Connect India 2024** [See the invitation 🎉](link_to_invitation)
+- **Google IO Connect Amsterdam 2023** [See the invitation 🎉](https://drive.google.com/file/d/12n5AyWMoNhvWBx8zVOfYmMS-x-MCVRay)
 - **ICPC - International Collegiate Programming Contest** [See the invitation 🎉](https://drive.google.com/file/d/13qrCp3NzznUpBwfz7mvPeO9ppBEVnN5d/view?usp=drive_link)
 
 ## Volunteering
@@ -65,6 +66,7 @@ I'm a passionate .Net Developer and Network Engineer with a strong focus on tech
 - **Email**: alaaynassar7@gmail.com
 
 ### 🏆 Achievements
+- 🥇 **Gold Medalist**: Huawei ICT Competition 2024-2025
 - 🥇 **Gold Medalist**: Huawei ICT Competition 2023-2024
 - 🥈 **Silver Medalist**: Huawei ICT Competition 2022-2023
 - 🥈 **Silver Medalist**: Huawei ICT Competition 2021-2022
