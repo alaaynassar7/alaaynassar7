@@ -1,72 +1,90 @@
+# 👋 Hello, I'm Alaa Youssef Nassar
 
-# 👋 Hello, I'm Alaa Nassar
+## 🌐 Welcome to My Portfolio!
 
-## 🌐 Welcome to My GitHub Profile!
+I'm a passionate **Junior DevOps Engineer** and .NET Developer with hands-on experience in cloud-native infrastructure, CI/CD pipelines, and containerization. I love technology, programming, and mentoring, and I actively contribute to developer communities.
 
-I'm a passionate .Net Developer and Network Engineer with a strong focus on technology, programming, and community leadership. Here's a bit about me and my journey so far:
+---
 
 ### 🚀 About Me
-- **Current Role**: .Net Developer | Network & IT Engineer
-- **Education**: Egyptian E-Learning University-Menoufia, Faculty of Computers and Information
-- **Passion**: I thrive on challenges and continuously seek opportunities to learn and grow. My key interests include network security, datacom, and .Net development.
+- **Current Role**: Cloud DevOps Intern | Part-Time Coding Instructor  
+- **Education**:  
+  - Master’s in Computer Science & IT - Menoufia University | Sep 2024 – Present  
+  - Bachelor’s in Computer & IT - EELU | Sep 2020 – Jul 2024 | GPA: 3.36  
+- **Passion**: Cloud computing, DevOps, software development, mentoring, and learning modern technologies like Rancher, OpenShift, AI/ML, and web development.
 
-### 💼 Experience
+---
 
-#### Founder and Leader
-**Google Developer Student Clubs - EELU Menoufia**
-- Facilitator & Leader *(Jul 2022 - Present)*
-- 🚀 Oversaw daily operations, facilitated workshops, and mentored new leaders.
+### 💼 Work Experience
 
-#### Tech Mentor
-**Google Developer Student Clubs - MENA**
-- Tech Mentor *(Mar 2024 - Present)*
-- 🌟 Empowered students with tech skills in Google Cloud, AI/ML, and more.
+#### Cloud DevOps Intern
+**National Telecommunication Institute (NTI), Egypt** | Sep 2025 – Present  
+- Hands-on training in AWS Cloud, Docker, Kubernetes, Terraform, Jenkins, Ansible, and DevSecOps practices  
+- Implemented CI/CD pipelines and automated infrastructure provisioning  
+- Lead containerization, cloud-native architecture, and secure software delivery  
 
-#### Ambassador
-**Huawei ICT Academy - Egypt**
-- Ambassador *(Jul 2023 - Present)*
-- 🌍 Promoted ICT education and opportunities within the community.
+#### Part-Time Coding Instructor
+**iSchool** | Dec 2024 – Present  
+- Teaching programming and computational thinking through interactive, project-based learning  
 
-#### Competitor and Winner
-**Huawei ICT Competitions**
-- 🥇 Gold and 🥈 Silver Medalist *(2021 - Present)*
-- 🛡️ Demonstrated expertise in network security and datacom.
-  
-## Conferences and Invitations
-- **Google IO Connect Berlin 2025** [See the invitation 🎉](link_to_invitation)
-- **Google IO Connect Berlin 2024** [See the invitation 🎉](https://drive.google.com/file/d/12daestFIGwkX0TECBGigbexqw9gJ4GJE)
-- **Google IO Connect India 2024** [See the invitation 🎉](link_to_invitation)
-- **Google IO Connect Amsterdam 2023** [See the invitation 🎉](https://drive.google.com/file/d/12n5AyWMoNhvWBx8zVOfYmMS-x-MCVRay)
-- **ICPC - International Collegiate Programming Contest** [See the invitation 🎉](https://drive.google.com/file/d/13qrCp3NzznUpBwfz7mvPeO9ppBEVnN5d/view?usp=drive_link)
+#### Part-Time Tech Mentor
+**Google for Developers** | Jul 2021 – Oct 2024  
+- Mentored students across MENA in cloud, AI, and web technologies  
 
-## Volunteering
-- **Cluster**: Founder and Leader 🚀
-- **ICPC - International Collegiate Programming Contest**: Host Volunteer 🌟
-- **Hult Prize at Menoufia University**: Public Relations Specialist 🌍
+#### .NET Development Intern
+**Information Technology Institute (ITI), Egypt** | Jul 2023 – Sep 2023  
 
-  ## Language Skills
-- **Mother Language**: Arabic 🌍
-- **English**: Good in writing, reading, and speaking 📝📚🗣️
-- **German**: Good in writing, reading, and speaking 🇩🇪✍️📖🗣️
+#### Android Development Intern
+**ITI, Egypt** | Jan 2023 – Feb 2023  
+
+#### Web Design & UI Intern
+**NTI & ITI, Egypt** | May 2022 – Sep 2022  
+
+---
+
+### 🛠 Projects
+- **Rover – Personal Transportation App**: Ride-sharing app with GPS, .NET backend, secure authentication  
+- **Pet Store Website**: Responsive e-commerce site using HTML, CSS, JS, Bootstrap  
+- **Clothing Store Website**: Full web solution with catalog, orders, and user management (HTML, CSS, JS, PHP)  
+- **Pharmacy Management System**: Java & SQL system for inventory and prescriptions with reporting  
+
+---
 
 ### 🔧 Skills
-- **Programming Languages**: Java, C#, C++, Python 
-- **Technologies**: Network Security, Datacom, Backend (.Net), Google Cloud Platform, AI/ML
-- **Soft Skills**: Leadership, Team Management, Public Speaking, Mentoring
+- **DevOps & Cloud**: Linux administration, AWS, Docker, Kubernetes, OpenShift, Terraform, Ansible, CI/CD, monitoring  
+- **Backend**: C#, ASP.NET MVC, SQL, LINQ, API design & debugging  
+- **Web Development**: HTML, CSS, Bootstrap, JS, jQuery  
+- **Database**: Schema design, query optimization, data security  
+- **Project Management**: Git, GitHub, Agile methodologies  
 
-### 🌱 What I'm Currently Learning
-- .Net
-- Network Engineering
-- Cloud Computing (Google Cloud Platform)
-- AI and Machine Learning
-- Competitive Programming Techniques
+---
 
-### 📫 How to Reach Me
-- **LinkedIn**: [Alaa Nassar](https://www.linkedin.com/in/alaaynassar7)
-- **Email**: alaaynassar7@gmail.com
+### 🌟 Leadership & Volunteering
+- **Founder & Leader**: Google Developer Student Club | Jul 2022 – Sep 2025 (5th place globally for events & impact)  
+- **Committee Leader**: Google Developer Groups on Campus | Oct 2024 – Dec 2025  
+- **Ambassador**: Google Women Techmakers | Jul 2024 – Present  
+- **Ambassador**: Huawei ICT Academy – Egypt | Jul 2023 – Jul 2024  
+- **Head of Technical Support**: ECPC – EELU | Jan 2022 – Apr 2024  
 
-### 🏆 Achievements
-- 🥇 **Gold Medalist**: Huawei ICT Competition 2024-2025
-- 🥇 **Gold Medalist**: Huawei ICT Competition 2023-2024
-- 🥈 **Silver Medalist**: Huawei ICT Competition 2022-2023
-- 🥈 **Silver Medalist**: Huawei ICT Competition 2021-2022
+---
+
+### 🏆 Awards
+- **Huawei ICT Competition**:  
+  - 2024–2025: Gold Medal (Network Track)  
+  - 2023–2024: Gold Medal (Network Track)  
+  - 2022–2023: Silver Medal  
+  - 2021–2022: Silver Medal  
+- **Google IO Connect Invitations**: Amsterdam 2023, Berlin 2024, Berlin 2025  
+
+---
+
+### 📫 Contact Me
+- **Email**: [alaaynassar7@gmail.com](mailto:alaaynassar7@gmail.com)  
+- **Phone**: +201552803181  
+- **LinkedIn**: [linkedin.com/in/alaaynassar7](https://www.linkedin.com/in/alaaynassar7)  
+- **GitHub**: [github.com/alaaynassar7](https://github.com/alaaynassar7)  
+
+---
+
+### 🌐 Portfolio Website
+Check out my live portfolio here: **[Alaa Youssef Nassar Portfolio](https://YOUR_USERNAME.github.io/alaa-portfolio/)**  
