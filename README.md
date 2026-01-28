@@ -14,6 +14,9 @@
   <a href="https://www.skills.google/public_profiles/6ce73c18-96e3-4a94-9c78-67eb8245e82f" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Skills-B0BEC5?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills"/>
   </a>
+  <a href="https://www.credly.com/users/alaaynassar7/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Certifications-orange?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
 </p>
 
 ---
